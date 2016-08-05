@@ -1,0 +1,21 @@
+{
+  "name": "rancher-foo",
+  "version": "1.0.0",
+  "description": "a node.js project, test rancher server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rancher",
+    "docker",
+    "ha",
+    "node.js"
+  ],
+  "author": "Zysam",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.1"
+  }
+}
